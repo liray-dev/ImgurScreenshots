@@ -9,6 +9,8 @@ https://imgur.com/account/settings/apps
 
 ![image](zero.png)
 
+Команда: /screen [nickname]
+
 ![image](first.png)
 ![image](second.png)
 ![image](three.png)
