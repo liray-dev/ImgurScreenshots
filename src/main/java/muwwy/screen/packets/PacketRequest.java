@@ -1,7 +1,3 @@
-// 
-// Decompiled by Procyon v0.5.36
-// 
-
 package muwwy.screen.packets;
 
 import cpw.mods.fml.common.network.simpleimpl.IMessage;
